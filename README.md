@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NdarkASH.NdarkASH&"  />
 </div>
 
-<p align="left">Hi 👋! My name is Muhamad Nashih Ulwan and I'm a Fullstack Developer, from Indonesia</p>
+<h1 align="left">Hi 👋! My name is Muhamad Nashih Ulwan and I'm a Fullstack Developer, from Indonesia</h1>
 
 ###
 
