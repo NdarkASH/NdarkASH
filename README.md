@@ -44,7 +44,11 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqcXUyaGx0dHRiYjh0MDljYmgxbmxhOXR4NGlzOXdqenVxMDV1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPuW5AlR9AeWzSsIqi/giphy.gif"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NdarkASH.NdarkASH&"  />
