@@ -1,8 +1,7 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NdarkASH.NdarkASH&"  />
 </div>
-<div align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlkMGtuMzlvZ3h0MmgyOG0wMHZjNmx1dTRheHVzdHQwb3hnZHhzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPuW5AlR9AeWzSsIqi/giphy.gif"/>
+
 </div>
 <h1 align="left">Hi 👋! My name is Muhamad Nashih Ulwan and I'm a Fullstack Developer, from Indonesia</h1>
 
@@ -60,7 +59,8 @@
   />
 </picture>
 </div>
-
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlkMGtuMzlvZ3h0MmgyOG0wMHZjNmx1dTRheHVzdHQwb3hnZHhzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPuW5AlR9AeWzSsIqi/giphy.gif"/>
 ###
 
 
