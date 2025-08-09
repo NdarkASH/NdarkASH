@@ -1,7 +1,6 @@
 <p align="left">Hi 👋! My name is Muhamad Nashih Ulwan and I'm a Fullstack Developer, from Indonesia</p>
 
 ###
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqcXUyaGx0dHRiYjh0MDljYmgxbmxhOXR4NGlzOXdqenVxMDV1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPuW5AlR9AeWzSsIqi/giphy.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdarkASH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -45,9 +44,13 @@
 
 <br clear="both">
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqcXUyaGx0dHRiYjh0MDljYmgxbmxhOXR4NGlzOXdqenVxMDV1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPuW5AlR9AeWzSsIqi/giphy.gif"  />
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NdarkASH.NdarkASH&"  />
 </div>
+
+
 
 ###
 
